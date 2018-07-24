@@ -1,0 +1,107 @@
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+ERROR:root:07/23 21:49 memeType is a required argument that is missing. Server: Erik's Steam Room:467845623807475712 Author: Erik#0911 Invoke: ')tb '
+ERROR:root:07/23 21:49 memeType is a required argument that is missing. Server: Erik's Steam Room:467845623807475712 Author: Erik#0911 Invoke: ')tb '
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+ERROR:root:07/23 21:52 memeType is a required argument that is missing. Server: Erik's Steam Room:467845623807475712 Author: Erik#0911 Invoke: ')tb '
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:root:07/23 21:55  Command Used:  Server: Erik's Steam Room:467845623807475712 Author: Erik#0911 Invoke: '!tb zucc "hola" "test" '
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.gateway:Unhandled event PRESENCES_REPLACE
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_command_error has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
