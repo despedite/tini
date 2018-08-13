@@ -50,7 +50,7 @@ A Work in Progress Discord Bot with music, memery and miscellaneous functionalit
 
 2. Download the ZIP file or clone the repo.
 
-3. Edit bot.py, and at the end of the file change up the Discord bot.run("YOUR-TOKEN-HERE") for the token you got on the first step.
+3. Edit bot.py, and at the end of the file change up the Discord bot.run("YOUR-TOKEN-HERE") for the token you got on the first step. Do the same on DMG.py.
 
 4. (Optional) If you're on Windows, edit the location of the file on open.bat from c:\location\bot.py to where the bot files are located. This'll allow you to see errors when editing the file.
 
