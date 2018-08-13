@@ -461,6 +461,6 @@ if __name__ == '__main__':
     #Run bot.
     try:
         loop = asyncio.get_event_loop()
-        loop.run_until_complete(bot.run("NDYzODI1NzYwMDM0MjI2MTk3.DjUtoA.VsBQ9XCRrvI_RuFWlX6bTVZtzS8"))
+        loop.run_until_complete(bot.run("YOUR_TOKEN_HERE"))
     except:
         print('This is probably a Runtime error from turning me off.')
